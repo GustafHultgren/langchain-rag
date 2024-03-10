@@ -1,0 +1,5 @@
+unstructured
+"unstructured[md]"
+langchain
+langchain_community
+chromadb==0.4.14

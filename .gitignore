@@ -28,3 +28,6 @@ venv/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Chroma data
+data/chroma
